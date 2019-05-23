@@ -1,0 +1,12 @@
+img{
+    max-height: 50vh
+
+}
+
+body{
+    background-image: url("assets/arsenal-football-club-stadium-21142755.jpg");
+    text-align: center;
+    color: red;
+    text-shadow: 2px 2px 13px black;
+
+}
